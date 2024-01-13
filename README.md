@@ -32,6 +32,7 @@ numpy
 5. Naïve Bayes
 6. Decision Tree Algorithm
 7. Random Forest Classification
+
 **Accuracies**
 1. Logistic Regression — 95.8%
 2. Nearest Neighbor — 95.1%
